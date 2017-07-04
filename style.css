@@ -114,8 +114,11 @@ input[type=text]:focus {
 	width: 60%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (min-width: 0px) and (max-width: 1000px) {
 	.container {
 		width: 100%;
+	}
+	.menu a {
+		
 	}
 }
