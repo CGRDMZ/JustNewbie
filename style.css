@@ -113,3 +113,9 @@ input[type=text]:focus {
 	float: right;
 	width: 60%;
 }
+
+@media screen and (max-width: 800px) {
+	.container {
+		width: 100%;
+	}
+}
