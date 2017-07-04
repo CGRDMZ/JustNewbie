@@ -98,7 +98,7 @@ input[type=text]:focus {
 	overflow: hidden;
 }
 
-.content h1 {
+.content h2 {
 	text-align: left;
 	margin-top: 3%;
 	float: right;
